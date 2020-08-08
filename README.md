@@ -27,9 +27,8 @@ This project is mantained by:
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
-4. Run the linter (ruby lint.rb').
-5. Push your branch (git push origin my-new-feature)
-6. Create a new Pull Request
+4. Push your branch (git push origin my-new-feature)
+5. Create a new Pull Request
 
 ## Screenshots
 ![4](https://user-images.githubusercontent.com/29532234/89716294-a804b980-d9a3-11ea-900c-12f1a52b8b43.png)
