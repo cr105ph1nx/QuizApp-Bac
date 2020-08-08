@@ -1,5 +1,5 @@
 # Quiz App for Baccaleaurate Students
-This an Android Studio made mobile application created to help Algerian baccaleaurate students learn some of the material in History, Geography and Biology. 
+This an Android Studio made mobile application created to help Algerian baccaleaurate students learn some of the material in History and Biology. 
 
 ## Installation
 Clone this repository and import into **Android Studio**
